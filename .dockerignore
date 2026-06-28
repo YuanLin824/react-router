@@ -1,0 +1,12 @@
+.husky
+.react-router
+build
+node_modules
+
+.editorconfig
+.prettierignore
+.prettierrc
+commitlint.config.cjs
+eslint.config.mjs
+LICENSE
+README.md
